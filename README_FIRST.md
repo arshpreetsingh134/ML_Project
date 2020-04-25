@@ -29,5 +29,5 @@ cofiCostFunc.m - Implement the cost function for collaborative filtering
 
 
 
-![1.1 The First Dataset]('The First Dataset.png')  
+![1.1 The First Dataset](The First Dataset.png)  
 
