@@ -29,5 +29,5 @@ FILES INCLUDED IN THIS PROJECT:-
 
 
 
-![1.1 The First Dataset](/ML_Project/The First Dataset.png)  
+![1.1 The First Dataset](/The First Dataset.PNG)  
 
