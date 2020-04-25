@@ -1,8 +1,10 @@
 # ML_Project
 Anomaly Detection &amp; Movie Recommendation System using MATLAB  
 
+Hello
+I am Arshpreet Singh
 
-In this project, we have implemented the anomaly detection algorithm and applied it to detect failing servers on a network. In the second part, we use Collaborative Filtering to build a recommender system for movies.   
+In this project, I have implemented the anomaly detection algorithm and applied it to detect failing servers on a network. In the second part, I use Collaborative Filtering to build a recommender system for movies.   
 
 To get the code running, you would need Octave/MATLAB software on your PC.   
 
