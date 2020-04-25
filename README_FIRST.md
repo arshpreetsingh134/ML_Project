@@ -26,3 +26,8 @@ normalizeRatings.m - Mean normalization for collaborative filtering
 estimateGaussian.m - Estimate the parameters of a Gaussian distribution with a diagonal covariance matrix   
 selectThreshold.m - Find a threshold for anomaly detection   
 cofiCostFunc.m - Implement the cost function for collaborative filtering  
+
+
+
+![1.1 The First Dataset]('The First Dataset.png')  
+
